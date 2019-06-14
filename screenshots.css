@@ -1,0 +1,24 @@
+.body-container{
+
+  display: grid;
+  grid-template-columns: 23% 23% 23%;
+  padding: 10rem;
+  border: black;
+  vh: 30px;
+  vw: 30px;
+  background-color: red;
+
+.header-container {}
+
+.messages {
+  color: #147efb RGB;
+}
+
+.contacts {
+  color:#147efb RGB;
+}
+
+.sent {
+
+  background-color:#147efb RGB;
+}
